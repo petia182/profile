@@ -1,0 +1,74 @@
+/* TODO: design your profile with CSS */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Poppins:400,700&display=swap');
+
+.btn {
+  color: white;
+  background-color: #6b72e1;
+  padding: 16px 24px;
+  margin-top: 24px;
+  display: inline-block;
+}
+
+.btn:hover {
+  background-color: pink;
+}
+
+#navigation li {
+  font-size: 40px;
+}
+
+body {
+  background-color: #d5f4ec;
+  font-family: 'Open Sans';
+}
+
+h1, h2 {
+  font-family: 'Poppins';
+  color: #49c5b6;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline;
+  padding: 0 16px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.card {
+  background-color: white;
+  padding: 40px;
+  width: 650px;
+  margin: 0 auto 30px auto;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.fab {
+  color: pink;
+  font-size: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
